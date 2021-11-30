@@ -1,27 +1,27 @@
-    #thirdDiv{
+#thirdDiv{
     
-        width: 500px;
-        height: 600px;
-        background-color: aqua;
-        padding: 60px;
-        border: antiquewhite 10px solid;
-    }
+    width: 500px;
+    height: 600px;
+    background-color: aqua;
+    padding: 60px;
+    border: antiquewhite 10px solid;
+}
+
+#spanId{
+    font-size: 18px;
+    margin: 50px;
+} 
     
-    #spanId{
-        font-size: 18px;
-        margin: 50px;
-    } 
+.divClass{
+    font-style: normal;
+    font-size: 20px;
+    color: black;
+    text-align: center;
+}
     
-    .divClass{
-        font-style: normal;
-        font-size: 20px;
-        color: black;
-        text-align: center;
-    }
-    
-    body{ 
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        background-image: url(https://es.rankiapro.com/wp-content/uploads/2019/08/fondo-tecnologico-preferido-selectores.jpg);
+body{ 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-image: url(https://es.rankiapro.com/wp-content/uploads/2019/08/fondo-tecnologico-preferido-selectores.jpg);
     }
