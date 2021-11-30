@@ -28,3 +28,4 @@ Acá vas a encontrar todo lo que necesitas para arrancar el Curso de Preparació
 
 
 > **Nota**: Wanda menciona un mail con la invitacion al repo, ahora el repo es público, por lo tanto *no es necesario ese email*. Se puede acceder en este [link](https://github.com/atralice/Curso.Prep.Henry).
+agrego un comentario
